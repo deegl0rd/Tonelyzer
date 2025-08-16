@@ -21,6 +21,6 @@ It supports both **Fast Fourier Transform (FFT)** and the slower **Discrete Four
 ```bash
 <executable_name> <input_file> [-dft] [-f=440] [-w=4096]
 ```
--f flag is the frequency of the standard A center pitch.
--w is the window size of the FFT which must be a power of two.
+- `-f` flag is the frequency of the standard A center pitch.
+- `-w` is the window size of the FFT which must be a power of two.
  

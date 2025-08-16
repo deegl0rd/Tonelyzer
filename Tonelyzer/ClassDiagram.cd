@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PitchAnalyzer">
+    <Position X="4.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAgCABAgAABAAAAAAAIBAAAAAAAgQAABAAAA=</HashCode>
+      <FileName>src\PitchAnalyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reader">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\Reader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Transformer">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAIFAAAAAAAEQKQAAAAQAAAAAAA=</HashCode>
+      <FileName>src\Transformer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="AudioData">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAQAAAAAAAAAAEAAAAAACAAAAAQAAAEBA=</HashCode>
+      <FileName>src\Structures.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="InitData">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAA=</HashCode>
+      <FileName>src\Structures.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="FTmode">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\Structures.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
